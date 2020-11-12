@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicAlgorithm/BasicAlgorithm.iml" filepath="$PROJECT_DIR$/BasicAlgorithm/BasicAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewCoder/NewCoder.iml" filepath="$PROJECT_DIR$/NewCoder/NewCoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/刷题.iml" filepath="$PROJECT_DIR$/刷题.iml" />
+    </modules>
+  </component>
+</project>
