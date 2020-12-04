@@ -1,10 +1,4 @@
-import javax.swing.tree.TreeNode;
-import java.awt.*;
-import java.util.ArrayList;
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.concurrent.TransferQueue;
+import datastructure.TreeNode;
 
 /**
  * @author Huang Chengqian
